@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Up and running
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
+We're up and running here at SlashRoots Labs.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/SlashrootsLabs.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Located in the center of Kingston, Jamaica, our offices at Half Way Tree provides a place for our community of Software Developers and geeks of all types and sizes to learn new skills and participate in making great software.
+
+![_config.yml]({{ site.baseurl }}/images/SlashrootsMap.png)
+
+The street address is:
+**Building 2,
+5 - 9 South Odeon Avenue**
