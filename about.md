@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about varun!
+Hello, my name is Varun Baker. I'm a software engineer based in Kingston Jamaica.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[varun@slashroots.org](mailto:varun@slashroots.org)
