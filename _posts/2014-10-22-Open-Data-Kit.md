@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PHP snippet example call to HarvestAPI 
+title: Open Data Policy Kit translated to English  
 ---
 
 I read an encouraging [article](http://jamaica-gleaner.com/gleaner/20141010/lead/lead7.html) in the paper yesterday that hinted at the Jamaican government's interest in implimenting an Open Data Policy. 
