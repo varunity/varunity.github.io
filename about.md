@@ -12,4 +12,4 @@ I work at the SlashRoots Foundation where I manage projects at SlashRoots Labs a
 
 ### Contact me
 
-[varun@slashroots.org](mailto:varun@slashroots.org)
+[varun [at] slashroots.org](mailto:varun@slashroots.org)

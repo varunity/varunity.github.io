@@ -2,6 +2,9 @@
 layout: post
 title: Make Your Drupal Website Communicate with a Native Andriod App
 ---
+
+![_config.yml]({{ site.baseurl }}/images/why_need_services.png)
+
 I will demonstrate how to set up the Drupal Services module to quickly turn your Drupal 7 website into a [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) server. I also include a sample native Android app to demonstrate how to login to Drupal using Services module and post new content using REST services to interact with the Drupal site..
 
 ##Why?

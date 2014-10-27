@@ -3,6 +3,8 @@ layout: post
 title: PHP snippet example call to HarvestAPI 
 ---
 
+![_config.yml]({{ site.baseurl }}/images/harvest_logo.png)
+
 I modified some PHP code I found on [StackOverflow](https://stackoverflow.com/questions/9802788/call-a-rest-api-in-php) to make a call to [HarvestAPI](http://harvestapi.io). I did this in hopes that it will make things easier for developers to see how to make calls to this rest API that provides important Jamaican agriculture information to a variety of important stakeholders along the agriculture value chain. 
 
 Using HarvestAPI one could for instance find the latest prices for a particular crop such as Okra.
