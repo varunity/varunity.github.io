@@ -13,11 +13,12 @@ Persons can use an IRC client of their choice or login directly from [this webpa
 
 Follow the following steps to connect to freenode using an IRC client such as [irssi](http://www.irssi.org/):
 
-```
+{% highlight ruby %}
 /connect chat.freenode.net
-```
+{% endhighlight %}
 
 Then join the '#slashroots' channel
-```
+
+{% highlight ruby %}
 /join #slashroots
-```
+{% endhighlight %}

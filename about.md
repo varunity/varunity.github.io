@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello, my name is Varun Baker. I'm a software engineer based in Kingston Jamaica.
+Hello, my name is Varun Baker. I am a software engineer based in Kingston Jamaica.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I work at the SlashRoots Foundation where I manage projects at SlashRoots Labs and work on Open Source Software for social change.
 
 ### Contact me
 
