@@ -141,6 +141,8 @@ I usually start testing by allowing access to anonymous users before turning on 
 
 Here is [more information](https://www.drupal.org/node/1699354) on how to test services.
 
+Once you are happy with the web services you have set up locally, you can push your code to a live server on the internet. This way your web service can be used and accessed from anywhere on the internet.
+
 ##The Android Application
 
 ![_config.yml]({{ site.baseurl }}/images/MobileApp.png)
@@ -153,7 +155,7 @@ The important folder to look at in this code is:
 DrupalAndroidApp/app/src/main/java/com/example/DrupalAppDemo/ 
 ```
 
-The relevant files to look at and modify are LoginActivity.java, ListActivity.java, and AddArticle.java.
+The relevant files to look at and modify are [LoginActivity.java](https://github.com/varunity/DrupalAndroidApp/blob/master/app/src/main/java/com/example/DrupalAppDemo/LoginActivity.java), [ListActivity.java](https://github.com/varunity/DrupalAndroidApp/blob/master/app/src/main/java/com/example/DrupalAppDemo/ListActivity.java), and [AddArticle.java](https://github.com/varunity/DrupalAndroidApp/blob/master/app/src/main/java/com/example/DrupalAppDemo/AddArticle.java).
 
 ##FIN
 I hope this code and demonstration helps persons build better mobile apps and web services. Please be sure to share any feedback or comments.
